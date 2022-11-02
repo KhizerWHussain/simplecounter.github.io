@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simplecounter.github.io/static/css/main.2dea80c8.css",
+    "main.js": "/simplecounter.github.io/static/js/main.cb2526b0.js",
+    "static/js/787.3edfc8b9.chunk.js": "/simplecounter.github.io/static/js/787.3edfc8b9.chunk.js",
+    "index.html": "/simplecounter.github.io/index.html",
+    "main.2dea80c8.css.map": "/simplecounter.github.io/static/css/main.2dea80c8.css.map",
+    "main.cb2526b0.js.map": "/simplecounter.github.io/static/js/main.cb2526b0.js.map",
+    "787.3edfc8b9.chunk.js.map": "/simplecounter.github.io/static/js/787.3edfc8b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dea80c8.css",
+    "static/js/main.cb2526b0.js"
+  ]
+}
